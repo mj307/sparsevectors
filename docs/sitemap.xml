@@ -1,0 +1,23 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>/404.html</loc></url>
+<url><loc>/LICENSE-text.html</loc></url>
+<url><loc>/authors.html</loc></url>
+<url><loc>/index.html</loc></url>
+<url><loc>/reference/index.html</loc></url>
+<url><loc>/reference/mean.html</loc></url>
+<url><loc>/reference/norm.html</loc></url>
+<url><loc>/reference/plot.html</loc></url>
+<url><loc>/reference/setAs.html</loc></url>
+<url><loc>/reference/show.html</loc></url>
+<url><loc>/reference/sort.html</loc></url>
+<url><loc>/reference/sparse_add.html</loc></url>
+<url><loc>/reference/sparse_crossprod.html</loc></url>
+<url><loc>/reference/sparse_mult.html</loc></url>
+<url><loc>/reference/sparse_numeric-arithmetic.html</loc></url>
+<url><loc>/reference/sparse_numeric-class.html</loc></url>
+<url><loc>/reference/sparse_sub.html</loc></url>
+<url><loc>/reference/sparse_sum.html</loc></url>
+<url><loc>/reference/standardize.html</loc></url>
+<url><loc>/reference/validation.html</loc></url>
+</urlset>
+
