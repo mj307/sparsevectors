@@ -1,0 +1,16 @@
+Package: sparsevectors
+Type: Package
+Title: Sparse Numeric Vector Operations
+Version: 0.1.0
+Authors@R: person("Medhavi", "Jambhekar", email = "m3dhavi@gmail.com", role = c("aut", "cre"))
+Description: Implements an S4 class 'sparse_numeric' and methods for addition, subtraction, multiplication, and other vector operations on sparse numeric data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    methods,
+    stats
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
